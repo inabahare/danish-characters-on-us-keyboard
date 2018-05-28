@@ -8,7 +8,7 @@ Add the autohotkey file to C:\Users\your username\AppData\Roaming\Microsoft\Wind
 And it werks
 
 ## What it does
-This script binds the three danish characters to altgr + their respective position.
+This script binds the three Danish characters to altgr + their respective position.
 More specifically, it binds the characters as following 
 
 ```
